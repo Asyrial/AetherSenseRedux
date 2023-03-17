@@ -1,13 +1,13 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-	<Authors>Tama Gotchi (digital-pet)</Authors>
+	<Authors>Tama Gotchi - Asyrial </Authors>
 	<Company></Company>
-	  <Version>0.7.0.0</Version>
-	<Description>Buttplugs on the moon</Description>
+	  <Version>0.7.0.1</Version>
+	<Description>Buttplugs In the Void</Description>
 	<Copyright>All Rights Reserved</Copyright>
 	<PackageProjectUrl>https://github.com/digital-pet/AetherSenseRedux</PackageProjectUrl>
-	<TargetFramework>net6.0-windows</TargetFramework>
+	<TargetFramework>net7.0-windows</TargetFramework>
 	<Platforms>x64</Platforms>
 	<Nullable>enable</Nullable>
 	<ProduceReferenceAssembly>false</ProduceReferenceAssembly>
