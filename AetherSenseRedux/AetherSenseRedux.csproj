@@ -24,7 +24,7 @@
 	
 	
   <ItemGroup>
-    <PackageReference Include="Buttplug" Version="2.0.6" GeneratePathProperty="true" />
+    <PackageReference Include="Buttplug" Version="3.0.0" GeneratePathProperty="true" />
     <PackageReference Include="DalamudPackager" Version="2.1.10" GeneratePathProperty="true" />
 	  <Reference Include="FFXIVClientStructs">
 		  <HintPath>$(DalamudLibPath)FFXIVClientStructs.dll</HintPath>
