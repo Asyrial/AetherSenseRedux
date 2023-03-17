@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AetherSenseRedux.Pattern;
-using Buttplug;
+using Buttplug.Client;
 using Dalamud.Logging;
 using System.Threading;
 
