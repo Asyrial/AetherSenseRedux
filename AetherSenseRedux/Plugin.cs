@@ -11,7 +11,8 @@ using System.Collections.Generic;
 using System.Reflection;
 using System.Threading.Tasks;
 
-using Buttplug;
+using Buttplug.Client;
+using Buttplug.Client.Connectors.WebsocketConnector;
 using AetherSenseRedux.Trigger;
 using AetherSenseRedux.Pattern;
 using System.Diagnostics;
