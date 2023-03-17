@@ -1,11 +1,11 @@
 {
-  "Author": "digital pet",
+  "Author": "Asyrial",
   "Name": "AetherSense Redux (18+)",
   "Punchline": "Advanced haptic feedback using Intiface",
   "Description": "An advanced haptic feedback plugin for game controllers, adult toys, and more using the Buttplug.io library. Requires Intiface Desktop to operate.",
   "InternalName": "AetherSenseRedux",
   "IsTestingExclusive": false,
-  "RepoUrl": "https://github.com/digital-pet/AetherSenseRedux",
+  "RepoUrl": "https://github.com/Asyrial/AetherSenseRedux",
   "ApplicableVersion": "any",
   "Tags": [
     "parsing",
